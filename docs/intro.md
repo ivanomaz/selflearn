@@ -2,7 +2,9 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Tutorial Introduzione
+
+Scopriamo insieme questo modo di costruire siti.
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
